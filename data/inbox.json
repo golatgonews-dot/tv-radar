@@ -1,7 +1,7 @@
 {
  "format": "tv-radar-inbox",
  "version": 1,
- "updated_at": "2026-10-22T22:03:07Z",
+ "updated_at": "2026-10-22T22:03:10Z",
  "config": {
   "baseline_at": "2026-10-03T23:59:56Z",
   "last_check_date": "2026-10-17",
@@ -279,6 +279,18 @@
    "title_id": "SHOW_403",
    "title_name": "Did Someone Happen to Mention Me?",
    "list": "Interested",
+   "status": "new",
+   "summary": "Premiered; expected on Netflix · US",
+   "detail": "Since Oct 22, 2026, per the imported listing. Not independently verified."
+  },
+  {
+   "id": "avail-SHOW_405-AV405a-2026-10-22",
+   "at": "2026-10-22T22:02:58Z",
+   "priority": 2,
+   "type": "available",
+   "title_id": "SHOW_405",
+   "title_name": "Nobody Wants This",
+   "list": "Must See",
    "status": "new",
    "summary": "Premiered; expected on Netflix · US",
    "detail": "Since Oct 22, 2026, per the imported listing. Not independently verified."
