@@ -1,7 +1,7 @@
 {
  "format": "tv-radar-inbox",
  "version": 1,
- "updated_at": "2026-10-22T22:02:59Z",
+ "updated_at": "2026-10-22T22:03:02Z",
  "config": {
   "baseline_at": "2026-10-03T23:59:56Z",
   "last_check_date": "2026-10-17",
@@ -243,6 +243,18 @@
    "title_id": "SHOW_394",
    "title_name": "Masterpiece: The Gold",
    "list": "Interested",
+   "status": "new",
+   "summary": "Premiered; expected on PBS · US",
+   "detail": "Since Oct 18, 2026, per the imported listing. Not independently verified."
+  },
+  {
+   "id": "avail-SHOW_395-AV395a-2026-10-18",
+   "at": "2026-10-22T22:02:58Z",
+   "priority": 2,
+   "type": "available",
+   "title_id": "SHOW_395",
+   "title_name": "Professor T",
+   "list": "Must See",
    "status": "new",
    "summary": "Premiered; expected on PBS · US",
    "detail": "Since Oct 18, 2026, per the imported listing. Not independently verified."
