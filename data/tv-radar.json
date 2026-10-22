@@ -1,7 +1,7 @@
 {
  "format": "tv-radar-export",
  "version": 1,
- "exported_at": "2026-10-22T22:25:41Z",
+ "exported_at": "2026-10-22T22:48:59Z",
  "app": "TV Radar",
  "storage_mode": "github",
  "manifest": {
@@ -89,9 +89,10 @@
   ],
   "notes": "Null means unknown. No credentials or access tokens are included."
  },
+ "notes": "Config and the Changes inbox are kept in data/inbox.json.",
  "config": null,
  "counts": {
-  "titles": 477,
+  "titles": 476,
   "release_events": 476,
   "availability": 476,
   "evidence": 1638,
@@ -23756,53 +23757,6 @@
    "updated_at": "2026-10-03T23:59:56Z",
    "user_updated_at": null,
    "viewing_status": "Not Started"
-  },
-  {
-   "id": "Tmvk40r6vs95f1",
-   "schema": 1,
-   "title": "TEST delete me",
-   "alt_titles": [],
-   "season_label": "",
-   "content_type": "series",
-   "release_year": null,
-   "category": "",
-   "decision_list": "Must See",
-   "viewing_status": "Not Started",
-   "reason": "",
-   "notes": "",
-   "moods": [],
-   "revisit_date": null,
-   "reconsider_condition": "",
-   "review_last_at": null,
-   "time_commitment": null,
-   "progress": {
-    "season": null,
-    "episode": null,
-    "episodes_watched": null,
-    "last_watched_at": null
-   },
-   "external": {
-    "overview": null,
-    "genres": [],
-    "cast": [],
-    "rating": null
-   },
-   "external_ids": {
-    "sheet_id": null,
-    "tmdb": null
-   },
-   "not_duplicate_of": [],
-   "created_at": "2026-10-22T22:25:39Z",
-   "updated_at": "2026-10-22T22:25:39Z",
-   "user_updated_at": "2026-10-22T22:25:39Z",
-   "history": [
-    {
-     "at": "2026-10-22T22:25:39Z",
-     "field": "created",
-     "from": null,
-     "to": "Added in TV Radar"
-    }
-   ]
   }
  ],
  "release_events": [
@@ -58909,6 +58863,5 @@
    "title_id": "SHOW_476"
   }
  ],
- "changes": [],
- "notes": "Config and the Changes inbox are kept in data/inbox.json."
+ "changes": []
 }
