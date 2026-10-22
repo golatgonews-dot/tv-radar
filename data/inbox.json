@@ -1,10 +1,10 @@
 {
  "format": "tv-radar-inbox",
  "version": 1,
- "updated_at": "2026-10-22T22:03:10Z",
+ "updated_at": "2026-10-22T22:03:12Z",
  "config": {
   "baseline_at": "2026-10-03T23:59:56Z",
-  "last_check_date": "2026-10-17",
+  "last_check_date": "2026-10-22",
   "moods": [
    "Comforting",
    "Funny",
