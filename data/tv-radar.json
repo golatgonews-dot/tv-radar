@@ -1,9 +1,9 @@
 {
  "format": "tv-radar-export",
  "version": 1,
- "exported_at": "2026-10-22T20:28:42Z",
+ "exported_at": "2026-10-22T22:25:41Z",
  "app": "TV Radar",
- "storage_mode": "db",
+ "storage_mode": "github",
  "manifest": {
   "keys": {
    "titles": "id",
@@ -89,26 +89,13 @@
   ],
   "notes": "Null means unknown. No credentials or access tokens are included."
  },
- "config": {
-  "moods": [
-   "Comforting",
-   "Funny",
-   "Thoughtful",
-   "Suspenseful",
-   "Light",
-   "Intense",
-   "Short",
-   "Background viewing"
-  ],
-  "baseline_at": "2026-10-03T23:59:56Z",
-  "last_check_date": "2026-10-17"
- },
+ "config": null,
  "counts": {
-  "titles": 476,
+  "titles": 477,
   "release_events": 476,
   "availability": 476,
   "evidence": 1638,
-  "changes": 18
+  "changes": 0
  },
  "titles": [
   {
@@ -23769,6 +23756,53 @@
    "updated_at": "2026-10-03T23:59:56Z",
    "user_updated_at": null,
    "viewing_status": "Not Started"
+  },
+  {
+   "id": "Tmvk40r6vs95f1",
+   "schema": 1,
+   "title": "TEST delete me",
+   "alt_titles": [],
+   "season_label": "",
+   "content_type": "series",
+   "release_year": null,
+   "category": "",
+   "decision_list": "Must See",
+   "viewing_status": "Not Started",
+   "reason": "",
+   "notes": "",
+   "moods": [],
+   "revisit_date": null,
+   "reconsider_condition": "",
+   "review_last_at": null,
+   "time_commitment": null,
+   "progress": {
+    "season": null,
+    "episode": null,
+    "episodes_watched": null,
+    "last_watched_at": null
+   },
+   "external": {
+    "overview": null,
+    "genres": [],
+    "cast": [],
+    "rating": null
+   },
+   "external_ids": {
+    "sheet_id": null,
+    "tmdb": null
+   },
+   "not_duplicate_of": [],
+   "created_at": "2026-10-22T22:25:39Z",
+   "updated_at": "2026-10-22T22:25:39Z",
+   "user_updated_at": "2026-10-22T22:25:39Z",
+   "history": [
+    {
+     "at": "2026-10-22T22:25:39Z",
+     "field": "created",
+     "from": null,
+     "to": "Added in TV Radar"
+    }
+   ]
   }
  ],
  "release_events": [
@@ -58875,222 +58909,6 @@
    "title_id": "SHOW_476"
   }
  ],
- "changes": [
-  {
-   "at": "2026-10-06T16:30:50Z",
-   "detail": "Since Oct 5, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_324-AV324a-2026-10-05",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on The CW · US",
-   "title_id": "SHOW_324",
-   "title_name": "Law & Order Toronto: Criminal Intent",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-06T16:30:50Z",
-   "detail": "Since Oct 5, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_327-AV327a-2026-10-05",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on Acorn TV · US",
-   "title_id": "SHOW_327",
-   "title_name": "Signora Volpe",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-06T16:30:50Z",
-   "detail": "Since Oct 5, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_329-AV329a-2026-10-05",
-   "list": "Interested",
-   "priority": 3,
-   "status": "new",
-   "summary": "Premiered; expected on BritBox · US",
-   "title_id": "SHOW_329",
-   "title_name": "War and Peace",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-06T16:30:50Z",
-   "detail": "Since Oct 6, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_330-AV330a-2026-10-06",
-   "list": "Interested",
-   "priority": 3,
-   "status": "new",
-   "summary": "Premiered; expected on Netflix · US",
-   "title_id": "SHOW_330",
-   "title_name": "Bass X Machina",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 7, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_337-AV337a-2026-10-07",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on ABC · US",
-   "title_id": "SHOW_337",
-   "title_name": "Abbott Elementary",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 7, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_348-AV348a-2026-10-07",
-   "list": "Interested",
-   "priority": 3,
-   "status": "new",
-   "summary": "Premiered; expected on Apple TV · US",
-   "title_id": "SHOW_348",
-   "title_name": "Small Prophets",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 8, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_350-AV350a-2026-10-08",
-   "list": "Interested",
-   "priority": 3,
-   "status": "new",
-   "summary": "Premiered; expected on Netflix · US",
-   "title_id": "SHOW_350",
-   "title_name": "Below",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 8, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_351-AV351a-2026-10-08",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on CBS · US",
-   "title_id": "SHOW_351",
-   "title_name": "Cupertino",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 8, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_352-AV352a-2026-10-08",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on CBS · US",
-   "title_id": "SHOW_352",
-   "title_name": "Elsbeth",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 8, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_353-AV353a-2026-10-08",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on CBS · US",
-   "title_id": "SHOW_353",
-   "title_name": "Eternally Yours",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 8, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_355-AV355a-2026-10-08",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on NBC · US",
-   "title_id": "SHOW_355",
-   "title_name": "Law & Order",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 8, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_356-AV356a-2026-10-08",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on NBC · US",
-   "title_id": "SHOW_356",
-   "title_name": "Law & Order: SVU",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 9, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_368-AV368a-2026-10-09",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on CBS · US",
-   "title_id": "SHOW_368",
-   "title_name": "Sheriff Country",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-10T18:56:47Z",
-   "detail": "Since Oct 9, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_370-AV370a-2026-10-09",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on Disney+/Hulu · US",
-   "title_id": "SHOW_370",
-   "title_name": "Oasis: Don’t Look Back in Anger",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-12T15:37:49Z",
-   "detail": "Since Oct 11, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_373-AV373a-2026-10-11",
-   "list": "Interested",
-   "priority": 3,
-   "status": "new",
-   "summary": "Premiered; expected on MGM+ · US",
-   "title_id": "SHOW_373",
-   "title_name": "Treasure Island",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-17T16:23:33Z",
-   "detail": "Since Oct 13, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_377-AV377a-2026-10-13",
-   "list": "Must See",
-   "priority": 2,
-   "status": "new",
-   "summary": "Premiered; expected on BritBox · US",
-   "title_id": "SHOW_377",
-   "title_name": "Ludwig",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-17T16:23:33Z",
-   "detail": "Since Oct 14, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_383-AV383a-2026-10-14",
-   "list": "Interested",
-   "priority": 3,
-   "status": "new",
-   "summary": "Premiered; expected on Disney+ · US",
-   "title_id": "SHOW_383",
-   "title_name": "VisionQuest",
-   "type": "available"
-  },
-  {
-   "at": "2026-10-17T16:23:33Z",
-   "detail": "Since Oct 15, 2026, per the imported listing. Not independently verified.",
-   "id": "avail-SHOW_390-AV390a-2026-10-15",
-   "list": "Interested",
-   "priority": 3,
-   "status": "new",
-   "summary": "Premiered; expected on Netflix · US",
-   "title_id": "SHOW_390",
-   "title_name": "The Diplomat",
-   "type": "available"
-  }
- ]
+ "changes": [],
+ "notes": "Config and the Changes inbox are kept in data/inbox.json."
 }
