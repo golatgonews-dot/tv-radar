@@ -1,7 +1,7 @@
 {
  "format": "tv-radar-inbox",
  "version": 1,
- "updated_at": "2026-10-22T22:03:12Z",
+ "updated_at": "2026-10-23T17:03:55Z",
  "config": {
   "baseline_at": "2026-10-03T23:59:56Z",
   "last_check_date": "2026-10-22",
@@ -294,6 +294,18 @@
    "status": "new",
    "summary": "Premiered; expected on Netflix · US",
    "detail": "Since Oct 22, 2026, per the imported listing. Not independently verified."
+  },
+  {
+   "id": "avail-SHOW_407-AV407a-2026-10-23",
+   "at": "2026-10-23T17:03:53Z",
+   "priority": 3,
+   "type": "available",
+   "title_id": "SHOW_407",
+   "title_name": "Fading Grandeur",
+   "list": "Interested",
+   "status": "new",
+   "summary": "Premiered; expected on Netflix · US",
+   "detail": "Since Oct 23, 2026, per the imported listing. Not independently verified."
   }
  ]
 }
